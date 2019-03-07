@@ -1,0 +1,16 @@
+<html>
+
+<head>
+<title> Ale bym sobie w D&D zagra³, czy¿ nie? </title>
+<meta charset="UTF-8" />
+</head>
+
+<body>
+<h1> NOM </h1>
+<h2> O JEZU JA CHCE DO DOMCIU </h2>
+<p> <b>NO¯</b> JA PIERDZIELE </p>
+<p> LINKI DO <a href="http://www.dorkly.com/post/78757/dungeons-and-donalds-parody-account-promises-to-makeamericagameagain" >MEMÓW </a> Z DND </p>
+<img src="./Zdjêcia/pobrane.jpg" alt="eeee">
+</body>
+
+</html>
